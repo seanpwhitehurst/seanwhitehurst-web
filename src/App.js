@@ -56,7 +56,7 @@ function App() {
 
         <div className="font-app font-light text-primary text-lg cursor-default pb-1">Skills</div>
         <div className="pl-4 pb-4">
-          <div className="text-sm pt-4 font-app font-light text-primary">C#, .NET, Java, React, node, TypeScript, Azure, Firebase, docker, K8S, git</div>
+          <div className="text-sm pt-4 font-app font-light text-primary">C#, .NET, Java, React, node, TypeScript, Azure, Firebase, docker, K8S, PowerShell, git</div>
         </div>
         <br />
 

@@ -6,10 +6,11 @@ module.exports = {
       colors: {
         background: {
           DEFAULT: '#156064',
+          secondary: '#78CDD7'
         },
         primary: {
           DEFAULT: '#FFFFFA',
-        }
+        },
       },
       fontFamily: {
         app: ['Roboto Mono']

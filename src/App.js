@@ -1,13 +1,12 @@
 import Layout from './components/Layout';
-import logo from './logo.svg';
 
 function App() {
   return (
-    <div className="App">
-      <Layout>
-        <div className="font-app font-extralight text-primary">Sean Whitehurst</div>
-      </Layout>
-    </div>
+    <Layout>
+      <div className="flex justify-center py-8">
+        <div className="font-app font-extralight text-primary text-4xl cursor-default">Sean Whitehurst</div>
+      </div>
+    </Layout>
   );
 }
 

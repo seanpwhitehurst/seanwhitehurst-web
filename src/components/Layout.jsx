@@ -2,7 +2,7 @@ import React from 'react'
 
 const Layout = ({children}) => {
   return (
-    <main className="bg-gradient-to-b from-background to-background-secondary min-h-screen">
+    <main className="bg-background min-h-screen">
       {children}
     </main>
   )

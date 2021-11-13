@@ -65,7 +65,7 @@ function App() {
           <Climb 
             route="Redpoint: Redacted Route"
             year="2021"
-            partner="Cocaine Gulley"
+            partner="Cocaine Gully"
             grade="5.12b"
           />
           <Climb 

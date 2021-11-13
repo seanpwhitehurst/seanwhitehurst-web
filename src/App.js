@@ -15,7 +15,7 @@ function App() {
     <Layout>
       <div className="flex flex-col m-auto py-8 px-8 max-w-lg">
         <div className="flex flex-row justify-between">
-          <div className="font-app font-light text-primary text-3xl cursor-default">Sean Whitehurst</div>
+          <div className="font-app font-bold text-primary text-3xl cursor-default">Sean Whitehurst</div>
           <Socials urls={socialUrls} />
         </div>
         <br />
@@ -23,7 +23,7 @@ function App() {
         <div className="font-app font-light text-primary text-sm cursor-default">Full-stack software engineer and alpine climber based in Seattle, WA.</div>
         <br />
 
-        <div className="font-app font-light text-primary text-lg cursor-default pb-1">Experience</div>
+        <div className="font-app font-bold text-primary text-lg cursor-default pb-1">Experience</div>
         <div className="pl-4">
           <ContentBlock
             company="Truveta"
@@ -42,7 +42,7 @@ function App() {
         </div>
         <br />
 
-        <div className="font-app font-light text-primary text-lg cursor-default pb-1">Education</div>
+        <div className="font-app font-bold text-primary text-lg cursor-default pb-1">Education</div>
         <div className="pl-4">
           <ContentBlock
             company="The Ohio State University"
@@ -54,13 +54,13 @@ function App() {
         </div>
         <br />
 
-        <div className="font-app font-light text-primary text-lg cursor-default pb-1">Skills</div>
+        <div className="font-app font-bold text-primary text-lg cursor-default pb-1">Skills</div>
         <div className="pl-4 pb-4">
           <div className="text-sm pt-4 font-app font-light text-primary">C#, .NET, Java, React, node, TypeScript, Azure, Firebase, docker, K8S, PowerShell, git</div>
         </div>
         <br />
 
-        <div className="font-app font-light text-primary text-lg cursor-default pb-1">Some Climbing</div>
+        <div className="font-app font-bold text-primary text-lg cursor-default pb-1">Some Climbing</div>
         <div className="pl-4">
           <Climb 
             route="Redpoint: Redacted Route"

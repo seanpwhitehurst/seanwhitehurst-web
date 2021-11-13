@@ -9,7 +9,7 @@ module.exports = {
           secondary: '#70C1B3'
         },
         primary: {
-          DEFAULT: '#FFFFFA',
+          DEFAULT: '#FFFFFF',
         },
       },
       fontFamily: {

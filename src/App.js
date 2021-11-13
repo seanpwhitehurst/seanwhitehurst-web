@@ -63,6 +63,12 @@ function App() {
         <div className="font-app font-light text-primary text-lg cursor-default pb-1">Some Climbing</div>
         <div className="pl-4">
           <Climb 
+            route="Redpoint: Redacted Route"
+            year="2021"
+            partner="Cocaine Gulley"
+            grade="5.12b"
+          />
+          <Climb 
             route="Redpoint: Bust the Rhythm"
             year="2021"
             partner="World Wall"

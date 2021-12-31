@@ -60,6 +60,17 @@ function App() {
         </div>
         <br />
 
+        <div className="font-app font-bold text-primary text-lg cursor-default pb-1">Annual Reviews</div>
+        <a 
+          className="cursor-pointer font-app text-primary text-sm pl-4 pb-4" 
+          href="https://drive.google.com/file/d/1d3jCnmJaZPTvXqDQ0id58DrvoXB3F0g4/view?usp=sharing" 
+          rel="noopener noreferrer"
+          target="_blank">
+            2021 In Review - 12/31/21
+        </a>
+        <br />
+        
+
         <div className="font-app font-bold text-primary text-lg cursor-default pb-1">Some Climbing</div>
         <div className="pl-4">
           <Climb 
